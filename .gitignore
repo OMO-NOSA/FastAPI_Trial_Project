@@ -1,4 +1,5 @@
 .vscode
 .mypy_cache
+cookiecutter-config-file.yml
 docker-stack.yml
 fastapi_env/
