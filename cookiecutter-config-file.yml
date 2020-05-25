@@ -5,7 +5,7 @@ default_context:
   domain_staging: 'stag.base-project.com'
   docker_swarm_stack_name_main: 'base-project-com'
   docker_swarm_stack_name_staging: 'stag-base-project-com'
-  secret_key: 'changethis'
+  secret_key: 'eaaa6091c0d0096318cc14d686a8402d04b5ad3e8eec48345cc35e0898deb5e8'
   first_superuser: 'nossy'
   first_superuser_password: '12345678'
   backend_cors_origins: '["http://localhost", "http://localhost:4200", "http://localhost:3000", "http://localhost:8080", "https://localhost", "https://localhost:4200", "https://localhost:3000", "https://localhost:8080", "http://dev.base-project.com", "https://stag.base-project.com", "https://base-project.com", "http://local.dockertoolbox.tiangolo.com", "http://localhost.tiangolo.com"]'
